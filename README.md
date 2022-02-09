@@ -5,7 +5,7 @@ React native final project
 Application screens by order and the action behind them.
 
 ### 1st Screen Of The App
-in this section we can see the categories we have in the app
+in this section we can see the categories we have in the shop
 
 ![1](AppScreens/1.jpeg)
 
