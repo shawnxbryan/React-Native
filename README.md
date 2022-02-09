@@ -1,7 +1,15 @@
 # React-Native-Shop-App
 React native final project
 
-# App Screens
+## Shop-App is an app for our final project in React Native course
 Application screens by order and the action behind them.
 
-# First Scrren
+### First Screen Of The App
+in this section we can see the categories we have in the app
+
+![1](Application images/1.jpeg)
+
+### Second Screen Of The App
+after the user pressed on the category he wants he can see the items, the amount of the items and the price in that category
+
+![2](Application images/2.jpeg)
