@@ -7,9 +7,9 @@ Application screens by order and the action behind them.
 ### First Screen Of The App
 in this section we can see the categories we have in the app
 
-![1](Application images/1.jpeg)
+![1](AppScreens/1.jpeg)
 
 ### Second Screen Of The App
 after the user pressed on the category he wants he can see the items, the amount of the items and the price in that category
 
-![2](Application images/2.jpeg)
+![2](AppScreen/2.jpeg)
